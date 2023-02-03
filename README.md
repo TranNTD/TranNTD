@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 My Name is Dung✨
+- 🔭 I’m currently working on projects about Data Analysis 
+- 🌱 I’m currently learning more about Portfolio Analysis. My major is applied Math and i have a huge passionate with numbers.!
+- 🤔 I’m looking for help with correcting and improving my codes.
+- 📫 How to reach me: https://www.linkedin.com/in/ngoc-thuy-dung-tran-353462213/
+- ⚡ Fun fact: You should call me "Yung" if you are English speaker and "Jung" falls du Deutsche bist 😄
 <!--
 **TranNTD/TranNTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
